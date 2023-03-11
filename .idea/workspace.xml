@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ed770d1-99b3-4487-97bc-7620a4af8b27" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/A-Mail.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/A-Mail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/components/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/src/setupProxy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +63,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "configurable.group.language",
     "spring.configuration.checksum": "98720a29cd5848b1b9b0cf9dc1e4b754",
     "vue.rearranger.settings.migration": "true"
@@ -100,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678284245559</updated>
-      <workItem from="1678563972355" duration="455000" />
+      <workItem from="1678563972355" duration="4534000" />
     </task>
     <servers />
   </component>
