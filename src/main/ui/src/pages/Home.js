@@ -21,7 +21,7 @@ useEffect(() => {
     };
     getPosts();
     setLoading(false);
-})
+}, [])
 
     return (
         <div>
